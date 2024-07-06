@@ -19,4 +19,6 @@ Steps from local machine:
 How to test the project?
 - navigate to http://localhost:3000/
 - start adding, editing and deleting tasks in the todo list
-- 
+------------------------------------------------------------------------- 
+Video:
+- https://drive.google.com/file/d/17u1z2XVlIMj33yqaM4JaP9NnyEjvlVxC/view?usp=sharing 
