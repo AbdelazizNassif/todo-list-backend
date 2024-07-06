@@ -1,5 +1,7 @@
-Steps to run the project:
-Database steps:
+# Steps to run the project:
+
+## Database steps:
+```bash
 - Create DB called permalist
 - create table inside permalist called items
 - CREATE TABLE items (
@@ -8,17 +10,25 @@ Database steps:
 );
 
 INSERT INTO items (title) VALUES ('Buy milk'), ('Finish homework');
----------------------------------------------------------------------
-Steps from local machine:
+```
+
+
+## Steps from local machine:
+```bash
 1 - download project files
 2 - go to project folder
 3 - from cmd: npm init
 4 - from cmd: npm install nodemon
 5 - from cmd: nodemon index.js
----------------------------------------------------------------------
-How to test the project?
+```
+
+```bash
+## How to test the project?
 - navigate to http://localhost:3000/
 - start adding, editing and deleting tasks in the todo list
-------------------------------------------------------------------------- 
-Video:
-- https://drive.google.com/file/d/17u1z2XVlIMj33yqaM4JaP9NnyEjvlVxC/view?usp=sharing 
+```
+
+## Video:
+```bash
+- https://drive.google.com/file/d/17u1z2XVlIMj33yqaM4JaP9NnyEjvlVxC/view?usp=sharing
+```
